@@ -30,6 +30,7 @@ Feel free to re-work your previous functions if you need to. Specifically, you m
 Feel free to create more “helper” functions if you think it would be useful.
 
 result of the Project 
+
 ![rock paper scissor ](https://github.com/RunTheLi/Project-Rock-Paper-Scissors/assets/157675387/e2da1960-6495-4d5f-bbfe-e5b00e316692)
 
 ![result  rps](https://github.com/RunTheLi/Project-Rock-Paper-Scissors/assets/157675387/027c3fa6-4f90-4bc1-b278-5c8d83bec5d6)

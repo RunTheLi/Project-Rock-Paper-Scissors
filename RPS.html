@@ -3,10 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="script.js"></script>
+    <title>Rock Paper Scissors with UI</title>
+    <link rel="stylessheet" href="styles.css"/>
+    
 </head>
 <body>
- <!--Hello everyone :)-->
+    <h1>Rock Paper Scissors Game</h1>
+    <div id="results">
+        <p id="playerScore">Player Score: 0</p>
+        <p id="computerScore">Computer Score: 0</p>
+        <p id="winner"></p>
+    </div>
+    <div id="btn">
+        <button id="rock">Rock</button>
+        <button id="paper">Paper</button>
+        <button id="scissors">Scissors</button>
+    </div>
+    <style>
+
+        body {
+            background-color: orange;
+        }
+
+        h1, #results {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #btn {
+          display: flex;
+          justify-content: center; 
+          align-items: center; 
+          height: 10vh; 
+       }
+
+       button {
+        margin: 10px;
+        width: 100px;
+        height: 30px;
+        border-radius: 10px;
+        border: 1px solid grey;
+       }
+
+       #playerScore, #winner {
+        margin-right: 5px;
+       }
+    </style>
+    <script src="script.js"></script>
 </body>
+<script src="script.js"></script>
 </html>

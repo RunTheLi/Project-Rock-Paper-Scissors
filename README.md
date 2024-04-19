@@ -1,7 +1,7 @@
 # Project-Rock-Paper-Scissors
 Foundations Course
 
-Thsi is a Project from the OdinProject.com
+This is a Project from the OdinProject.com
 
 source: https://www.theodinproject.com/lessons/foundations-rock-paper-scissors
 

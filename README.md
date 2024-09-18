@@ -3,7 +3,7 @@ Foundations Course
 
 This is a Project from the OdinProject.com
 
-source: https://www.theodinproject.com/lessons/foundations-rock-paper-scissors
+source: [https://www.theodinproject.com/lessons/foundations-rock-paper-scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
 **Assignment** 
 

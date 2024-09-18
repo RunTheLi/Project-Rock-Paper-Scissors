@@ -1,4 +1,4 @@
-# Project-Rock-Paper-Scissors
+# Project Rock Paper Scissors Prompt
 Foundations Course
 
 This is a Project from the OdinProject.com

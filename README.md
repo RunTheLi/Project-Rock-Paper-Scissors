@@ -1,5 +1,5 @@
 # Project Rock Paper Scissors Prompt
-Foundations Course
+Foundations Course ( Prompt )
 
 This is a Project from the OdinProject.com
 
